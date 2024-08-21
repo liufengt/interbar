@@ -3,6 +3,7 @@
 #include "manage.h"
 #include <QSqlQuery>
 #include <QMessageBox>
+//会员功能
 
 vip::vip(QWidget *parent)
     : QWidget(parent)
