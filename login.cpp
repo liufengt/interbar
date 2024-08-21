@@ -1,7 +1,6 @@
 #include "login.h"
 #include "ui_login.h"
 #include "widget.h"
-#include "form.h"
 #include <QMessageBox>
 //管理员登录
 login::login(QWidget *parent)
@@ -40,15 +39,6 @@ void login::on_loginButton_clicked()
         pass.exec();
     }
 }
-
-
-void login::on_Register_clicked()
-{
-    Form *f=new Form();
-    f->show();
-    this->hide();
-}
-
 
 void login::on_cancelButton_clicked()
 {
