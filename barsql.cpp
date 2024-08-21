@@ -4,7 +4,7 @@
 #include <QSqlQuery>
 #include <QDebug>
 #include <QCoreApplication>
-//一些函数，有些并未使用
+//一些函数，有些并未使用.
 barsql * barsql::ptrbarinf = nullptr;
 barsql::barsql(QObject *parent)
     : QObject{parent}
