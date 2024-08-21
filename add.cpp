@@ -5,7 +5,7 @@
 #include <QMessageBox>
 #include <QStandardItemModel>
 #include <QSqlQuery>
-
+//注册功能
 add::add(QWidget *parent)
     : QWidget(parent)
     , ui(new Ui::add)
