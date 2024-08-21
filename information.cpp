@@ -7,7 +7,7 @@
 #include <QRandomGenerator>
 #include <QStandardItemModel>
 #include <QSqlQuery>
-
+//用户信息查询
 information::information(QWidget *parent)
     : QWidget(parent)
     , ui(new Ui::information)
