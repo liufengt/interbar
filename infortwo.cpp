@@ -5,7 +5,7 @@
 #include <QRandomGenerator>
 #include <QStandardItemModel>
 #include <QSqlQuery>
-
+//用户数据查询第二页
 
 infortwo::infortwo(QWidget *parent)
     : QWidget(parent)
