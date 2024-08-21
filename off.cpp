@@ -4,6 +4,7 @@
 #include <QList>
 #include <QSqlQuery>
 #include <QMessageBox>
+//注销功能
 
 off::off(QWidget *parent)
     : QWidget(parent)
