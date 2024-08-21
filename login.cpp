@@ -3,7 +3,7 @@
 #include "widget.h"
 #include "form.h"
 #include <QMessageBox>
-
+//管理员登录
 login::login(QWidget *parent)
     : QWidget(parent)
     , ui(new Ui::login)
