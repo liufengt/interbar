@@ -4,6 +4,7 @@
 #include <QDateTime>
 #include <QSqlQuery>
 #include <QMessageBox>
+//缴费功能
 
 pay::pay(QWidget *parent)
     : QWidget(parent)
