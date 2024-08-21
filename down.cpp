@@ -4,7 +4,7 @@
 #include <QDateTime>
 #include <QSqlQuery>
 #include <QMessageBox>
-
+//下机功能
 down::down(QWidget *parent)
     : QWidget(parent)
     , ui(new Ui::down)
