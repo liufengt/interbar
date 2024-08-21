@@ -6,7 +6,7 @@
 namespace Ui {
 class Form;
 }
-
+//未使用
 class Form : public QWidget
 {
     Q_OBJECT
