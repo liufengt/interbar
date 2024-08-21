@@ -3,6 +3,7 @@
 #include "manage.h"
 #include <QSqlQuery>
 #include <QMessageBox>
+//充值功能
 
 
 rechar::rechar(QWidget *parent)
