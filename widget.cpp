@@ -1,7 +1,7 @@
 #include "widget.h"
 #include "ui_widget.h"
 #include "manage.h"
-
+//登录成功界面
 
 Widget::Widget(QWidget *parent)
     : QWidget(parent)
