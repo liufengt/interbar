@@ -4,6 +4,7 @@
 #include <QDateTime>
 #include <QSqlQuery>
 #include <QMessageBox>
+//上机功能
 
 up::up(QWidget *parent)
     : QWidget(parent)
