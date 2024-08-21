@@ -8,6 +8,7 @@
 #include "up.h"
 #include "rechar.h"
 #include "pay.h"
+//网吧计费管理主界面
 
 MANAge::MANAge(QWidget *parent)
     : QWidget(parent)
